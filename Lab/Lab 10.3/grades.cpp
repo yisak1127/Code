@@ -20,7 +20,7 @@ while (inData)
 inData >> average;
 // Fill in the code to print out name and
 // student average
-cout << name average;
+cout << name <<average;
 // Fill in the code to complete the while
 // loop so that the rest of the student
 // names and average are read in properly
