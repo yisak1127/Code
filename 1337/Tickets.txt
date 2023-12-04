@@ -1,0 +1,32 @@
+Ship ID: ShipID-1
+Name: Ship1
+Time In: 10:00
+Time Out: 10:05
+Credited Minutes: 10
+Extra Minutes: -5
+Fine: -1000 units
+
+Ship ID: Ship-5
+Name: Ship5
+Time In: 10:10
+Time Out: 10:30
+Credited Minutes: 10
+Extra Minutes: 10
+Fine: 2000 units
+
+Ship ID: ShipID-4
+Name: Ship4
+Time In: 10:00
+Time Out: 10:33
+Credited Minutes: 40
+Extra Minutes: -7
+Fine: -1400 units
+
+Ship ID: ShipID8
+Name: Ship8
+Time In: 10:13
+Time Out: 10:35
+Credited Minutes: 15
+Extra Minutes: 7
+Fine: 1400 units
+

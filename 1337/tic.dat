@@ -1,0 +1,19 @@
+enter 10:00 Ship1 ShipID-1 10
+enter 10:00 Ship2 ShipID-2 20
+enter 10:00 Ship3 ShipID-3 30
+enter 10:00 Ship4 ShipID-4 40
+exit ShipID-1 10:05
+enter 10:10 Ship5 Ship-5 10
+enter 10:11 Ship6 Ship-6 15
+enter 10:12 Ship7 ShipID7 10
+enter 10:13 Ship8 ShipID8 15
+enter 10:14 Ship9 ShipID9 10
+enter 10:15 Ship10 Ship_ID10 15
+enter 10:15 Ship11 Ship_ID11 10
+enter 10:20 Ship12 ShipID-12 10
+enter 10:30 Ship13 ShipID-13 10
+exit Ship-5 10:30
+enter 10:30 Another_Ship A_S-1 60
+exit ShipID-4 10:33
+exit ShipID8 10:35
+enter 12:00 Ship100 Ship100 25

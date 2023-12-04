@@ -1,0 +1,11 @@
+Ships begin entering
+Ship 1 leaves, nothing is in the queue
+Ship 5 enters and takes the spot of ship 1 at 10:10
+More ships begin entering
+Ship 12 enters, all meters are full - send to queue
+Ship 13 enters, all meters are full - send to queue
+Ship 5 exits and gets a ticket - Ship 12 takes the spot of Ship 5 at 10:45
+Another_Ship enters and goes to the queue
+Ship 4 leaves, but no ticket - Ship 13 takes the place of Ship 4 at 10:48
+Ship 8 leaves and gets a ticket - Another_Ship takes the spot of Ship 8 at 10:50
+Ship100 enters at 12:00, all meters are full - send to queue
