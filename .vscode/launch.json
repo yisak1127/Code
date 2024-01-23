@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComputeAreaWithConsoleInput",
+            "request": "launch",
+            "mainClass": "ComputeAreaWithConsoleInput",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "ComputeArea",
+            "request": "launch",
+            "mainClass": "ComputeArea",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "Time",
+            "request": "launch",
+            "mainClass": "Time",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
