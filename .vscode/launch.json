@@ -5,13 +5,27 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Code_7c6abf30"
+        },
+        {
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "/home/yisak/Code/your_executable_name", // Adjust the executable name
+            "program": "/home/yisak/Code/your_executable_name",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}", // Use the workspace folder as the working directory
+            "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
