@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComputingTaxes",
+            "request": "launch",
+            "mainClass": "ComputingTaxes",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
             "name": "ComputeAreaWithConsoleInput",
             "request": "launch",
             "mainClass": "ComputeAreaWithConsoleInput",
