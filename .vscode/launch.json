@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Loan",
+            "request": "launch",
+            "mainClass": "Loan",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "Change",
+            "request": "launch",
+            "mainClass": "Change",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "Tuition",
+            "request": "launch",
+            "mainClass": "Tuition",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "CompareStrings",
+            "request": "launch",
+            "mainClass": "CompareStrings",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
             "name": "ComputingTaxes",
             "request": "launch",
             "mainClass": "ComputingTaxes",
