@@ -4,9 +4,9 @@
 
 	.include	"SysCalls.asm"
 	.data	
-prompt:	.asciiz "Enter an integer: "
-sumText:	.asciiz "The sum is: "
-countText:	.asciiz "\nThe number of integers entered was: "
+prompt:	.asciiz 	"Enter an integer: "
+sumText:	.asciiz 	"The sum is: "
+countText:	.asciiz 	"\nThe number of integers entered was: "
 	
 	.text 
 

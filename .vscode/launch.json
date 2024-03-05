@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciAndPrime",
+            "request": "launch",
+            "mainClass": "FibonacciAndPrime",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
             "name": "Loan",
             "request": "launch",
             "mainClass": "Loan",
