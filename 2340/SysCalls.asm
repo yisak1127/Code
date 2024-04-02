@@ -19,3 +19,4 @@
   	.eqv	SysWriteFile	15 
   	.eqv	SysCloseFile	16 
   	.eqv	SysExitValue	17
+  	.eqv	lowercase		32
