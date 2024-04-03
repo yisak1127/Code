@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ccc",
+            "request": "launch",
+            "mainClass": "ccc",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "Main1",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
             "name": "Prime",
             "request": "launch",
             "mainClass": "Prime",
