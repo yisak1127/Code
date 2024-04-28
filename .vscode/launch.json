@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
+            "name": "Files",
+            "request": "launch",
+            "mainClass": "Files",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
             "name": "ccc",
             "request": "launch",
             "mainClass": "ccc",
