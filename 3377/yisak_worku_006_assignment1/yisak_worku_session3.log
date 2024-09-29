@@ -1,0 +1,91 @@
+Script started on Thu 12 Sep 2024 04:07:20 PM CDT
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cd
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} rm -rf assg1
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mkdir -p assg1/top
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mkdir -p assg1/top{cslinux1:~} rm -rf assg1      cd           assg1
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} chmod 000 top
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} cd top
+bash: cd: top: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} touch top/filE e
+touch: cannot touch ‘top/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} mkdir top/dir
+mkdir: cannot create directory ‘top/dir’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} ls –l top
+ls: cannot access –l: No such file or directory
+ls: cannot open directory top: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} ls –l topmkdir top/dirtouch top/filecd top        hmod 000 top top 1 top top 0 top{cslinux1:~/assg1} chmod 00 top 100 top
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} chmod 100 topls –l top    
+ls: cannot access –l: No such file or directory
+ls: cannot open directory top: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} ls –l topchmod 100 topls –l top    chmod 100 topls –l top    chmod 100 topls –l top    mkdir top/dir
+mkdir: cannot create directory ‘top/dir’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} mkdir top/dirls –l top    chmod 100 topls –l top    mkdir top/dirtouch top/filecd top        touch top/file
+touch: cannot touch ‘top/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} touch top/filemkdir top/dir ls –l top    chmod 100 topls –l top    mkdir top/dirtouch top/filecd top        hmod 000 topd top       
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1/top{cslinux1:~/assg1/top} cd top   ..
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} cd ..toptouch top/filemkdir top/dir ls –l top    chmod 100 topls –l top    chmod 100 top00 top 200 top
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} chmod 200 topd ..        top
+bash: cd: top: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} cd tophmod 200 topd ..        toptouch top/file
+touch: cannot touch ‘top/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} touch top/filecd top        hmod 200 topd ..        toptouch top/filemkdir top/dir ls –l top    mkdir top/dir
+mkdir: cannot create directory ‘top/dir’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} mkdir top/dirtouch top/filecd top        hmod 200 topd ..        toptouch top/filemkdir top/dir ls –l top    
+ls: cannot access –l: No such file or directory
+ls: cannot open directory top: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} ls –l topmkdir top/dirtouch top/filecd top        hmod 200 topd ..        hmod 200 top00 top 300 top
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} chmod 300 topls –l top    
+ls: cannot access –l: No such file or directory
+ls: cannot open directory top: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} ls –l topchmod 300 topls –l top    mkdir top/dir
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} mkdir top/dirls –l top    chmod 300 topls –l top    mkdir top/dirtouch top/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} touch top/filemkdir top/dir ls –l top    chmod 300 topls –l top    mkdir top/dirtouch top/filecd top        
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1/top{cslinux1:~/assg1/top} cd toptouch top/filecd top              CD ..     cd ..
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} cd ..toptouch top/filemkdir top/dir ls –l top    chmod 300 top00 top 400 top
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} chmod 400 topd ..        top
+bash: cd: top: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} cd tophmod 400 topd ..        toptouch top/file
+touch: cannot touch ‘top/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} touch top/filecd top        hmod 400 topd ..        toptouch top/filemkdir top/dir 
+mkdir: cannot create directory ‘top/dir’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} mkdir top/dirtouch top/filecd top        hmod 400 topd ..        toptouch top/filemkdir top/dir ls –l top    
+ls: cannot access –l: No such file or directory
+top:
+dir  file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} ls –l top top  top top 
+dir  file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1}                                                                                                                                                     {cslinux1:~/assg1} ls top–l topmkdir top/dirtouch top/filecd top        hmod 400 topd ..        hmod 400 top00 top 500 top{cslinux1:~/assg1} chmod 50{cslinux1:~/assg1} chmod 500{cslinux1:~/assg1} chmod 500 {cslinux1:~/assg1} chmod 500 t{cslinux1:~/assg1} chmod 500 to{cslinux1:~/assg1} chmod 500 top
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1}                                                                                                                                                                                                                                                                                                                      {cslinux1:~/assg1} chmod 500 topls top       –l top
+ls: cannot access –l: No such file or directory
+top:
+dir  file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} ls –l topchmod 500 topls top       –l topmkdir top/dir
+mkdir: cannot create directory ‘top/dir’: File exists
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} mkdir top/dir1
+mkdir: cannot create directory ‘top/dir1’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} mkdir top/dir1 ls –l top    chmod 500 topls top       –l topmkdir top/dirtouch top/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} C touch top/filemkdir top/dir1 ls –l top    chmod 500 topls top       –l topmkdir top/dirtouch top/filecd top        
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1/top{cslinux1:~/assg1/top} cd ..
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} cd ..toptouch top/filemkdir top/dir1 ls –l top    chmod 500 top00 top 600 top
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} chmod 600 topd ..        top
+bash: cd: top: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} cd tophmod 600 topd ..        toptouch top/file
+touch: cannot touch ‘top/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} touch top/filecd top        hmod 600 topd ..        toptouch top/filemkdir top/dir1
+mkdir: cannot create directory ‘top/dir1’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} mkdir top/dir1touch top/filecd top        hmod 600 topd ..        toptouch top/filemkdir top/dir1 ls –l top    
+ls: cannot access –l: No such file or directory
+top:
+dir  file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} ls –l topmkdir top/dir1touch top/filecd top        hmod 600 topd ..        hmod 600 top00 top 700 top
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} chmod 700 topls –l top    
+ls: cannot access –l: No such file or directory
+top:
+dir  file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} ls –l topchmod 700 topls –l top    mkdir top/dir1
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} mkdir top/dir1ls –l top     chmod 700 topls –l top    mkdir top/dir1touch top/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1{cslinux1:~/assg1} touch top/filemkdir top/dir1ls –l top     chmod 700 topls –l top    mkdir top/dir1touch top/filecd top        
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038/assg1/top{cslinux1:~/assg1/top} E exit
+exit
+
+Script done on Thu 12 Sep 2024 04:24:55 PM CDT

@@ -1,0 +1,213 @@
+Script started on Thu 12 Sep 2024 05:03:13 PM CDT
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ls
+assg1  helloworld  helloworld.cpp  perl5  public_html  source  target  yisak_worku_session3.log  yisak_worku_session4.log  yisak_worku_session.log
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} lsexitscript yisak_worku_session4.log3.log{cslinux1:~} exit                           {cslinux1:~} exitrm target/file
+rm: cannot remove ‘target/file’: No such file or directory
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source/file           target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 target00 target 300 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 300 target00 target {cslinux1:~} chmod 030 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 030 target300 target700 targetsource/file     {cslinux1:~} rm target/file  ls            exitscript yisak_worku_session4.log3.log{cslinux1:~} exit                           {cslinux1:~} exitrm target/filecp source/file target
+cp: cannot stat ‘target/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 030 target     30 target {cslinux1:~} chmod 3{cslinux1:~} chmod 300 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 300 targetp source/file target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 300 target     p source/file target{cslinux1:~} chmod 030 target     300 target700 targetsource/file     {cslinux1:~} rm target/file  
+rm: remove regular empty file ‘target/file’? y
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} rm target/filecp source/file target{cslinux1:~} chmod 300 target     00 target 200 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 200 target{cslinux1:~} rm target/file  chmod 200 target{cslinux1:~} rm target/file  cp source/file target
+cp: cannot stat ‘target/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 200 target     00 target 100 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 targetp source/file target
+cp: cannot create regular file ‘target/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 100 target     {cslinux1:~} chmod {cslinux1:~} chmod 100 target 300 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 300 target{cslinux1:~} chmod 3{cslinux1:~} chmod 30{cslinux1:~} chmod 300p source/file target{cslinux1:~} chmod 100 target     p source/file target{cslinux1:~} chmod 200 target     {cslinux1:~} rm target/file  cp source/file target{cslinux1:~} chmod 300 target     p source/file target{cslinux1:~} chmod 030 target     300 target700 targetsource/file00 source/file {cslinux1:~} chmod 000 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source/file300 target     p source/file target
+cp: cannot open ‘source/file’ for reading: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 000 source/file{cslinux1:~} chmod 0{cslinux1:~} chmod 00 source/file 100 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source/file{cslinux1:~} cp source/file target
+cp: cannot open ‘source/file’ for reading: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 100 source/file{cslinux1:~} cp source/file target{cslinux1:~} chmod 100 source/file{cslinux1:~} cp source/file target{cslinux1:~}                      {cslinux1:~} cp source/file target{cslinux1:~} chmod 100 source/file00 source/file 200 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 200 source/file{cslinux1:~} cp source/file target
+cp: cannot open ‘source/file’ for reading: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 200 source/file{cslinux1:~} chmod {cslinux1:~} chmod 200 source/file 300 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 300 source/file{cslinux1:~} cp source/file target
+cp: cannot open ‘source/file’ for reading: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 300 source/file{cslinux1:~} cp source/file target{cslinux1:~} chmod 300 source/file00 source/file 400 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 400 source/file{cslinux1:~} cp source/file target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 400 source/file{cslinux1:~} cp source/file target{cslinux1:~} chmod 300 source/file{cslinux1:~} cp source/file target{cslinux1:~} chmod 200 source/file{cslinux1:~} cp source/file target{cslinux1:~} chmod 100 source/file{cslinux1:~} cp source/file target{cslinux1:~} chmod 000 source/file300 target     p source/file target{cslinux1:~} chmod 100 target     p source/file target{cslinux1:~} chmod 200 target     {cslinux1:~} rm target/file  
+rm: remove write-protected regular empty file ‘target/file’? y
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} rm target/filecp source/file target{cslinux1:~} chmod 400 source/file     00 source 100 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source{cslinux1:~} rm target/file  cp source/file target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 100 source     {cslinux1:~} rm target/file  
+rm: remove write-protected regular empty file ‘target/file’? y
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} rm target/filecp source/file target{cslinux1:~} chmod 100 source     p source/file target{cslinux1:~} chmod 100 source     00 source {cslinux1:~} chmod 000 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source{cslinux1:~} rm target/file  cp source/file target
+cp: cannot stat ‘source/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 000 source     {cslinux1:~} chmod 00 source 100 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 sourcep source/file target{cslinux1:~} chmod 000 source     {cslinux1:~} rm target/file  cp source/file target{cslinux1:~} rm target/file       chmod 000 sourcep source/file target{cslinux1:~} chmod 000 source               200 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 200 target100 sourcep source/file target
+cp: cannot stat ‘target/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cp source/file target{cslinux1:~} chmod 200 target     00 target 300 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 300 targetp source/file target{cslinux1:~} chmod 200 target     100 sourcep source/file target{cslinux1:~} chmod 000 source     {cslinux1:~} rm target/file  
+rm: cannot remove ‘target/file’: No such file or directory
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} rm target/filechmod 300 target00 target {cslinux1:~} chmod 000 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 target      scor   ource
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source/{cslinux1:~} chmod 00 source/ 100 source/{cslinux1:~} chmod 10{cslinux1:~} chmod 100{cslinux1:~} chmod 100 {cslinux1:~} chmod 100 s{cslinux1:~} chmod 100 so{cslinux1:~} chmod 100 sou{cslinux1:~} chmod 100 sour{cslinux1:~} chmod 100 sourc{cslinux1:~} chmod 100 source{cslinux1:~} chmod 100 source/file
+chmod: cannot access ‘source/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source/file00 source/file 700 source/file
+chmod: cannot access ‘source/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source/file     
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source/file{cslinux1:~} chmod 700 source/file {cslinux1:~} chmod 000 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source/file{cslinux1:~}                      {cslinux1:~} chmod 000 source/file{cslinux1:~} chmod 00 source/file 700 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source/file000 source/file700 source     /file     /file100 source/file000 source     target{cslinux1:~} rm target/file  chmod 300 target{cslinux1:~} rm target/file  chmod 300 targetp source/file target{cslinux1:~} chmod 200 target     100 source200 target100 sourcep source/file target{cslinux1:~} chmod 000 source     p source/file target{cslinux1:~} c{cslinux1:~} cp source/file target {cslinux1:~} c source/file target {cslinux1:~} m source/file target{cslinux1:~} mv source/file target{cslinux1:~} mv
+mv: cannot stat ‘target/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mv source/file target{cslinux1:~} chmod 700 source/file{cslinux1:~} mv source/file target{cslinux1:~} chmod 700 source/file000 source/file700 source     000 source/file700 source/file{cslinux1:~} mv source/file target{cslinux1:~}                      {cslinux1:~} s mv source/file target{cslinux1:~} chmod 700 source/file000 source/file700 source     /file100 source/file000 source     target{cslinux1:~} rm target/file  chmod 000 target{cslinux1:~} chmod 00 target 100 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 target{cslinux1:~} mv source/file target
+mv: cannot move ‘source/file’ to ‘target/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mv source/file target{cslinux1:~} chmod 100 target     00 target 200 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 200 target{cslinux1:~} mv source/file target
+mv: cannot stat ‘target/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mv source/file target{cslinux1:~} chmod 200 target     00 target 100 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 target{cslinux1:~} mv source/file target{cslinux1:~} chmod 200 target     {cslinux1:~} mv source/file target{cslinux1:~} chmod 100 target     00 target 300 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 300 target100 target{cslinux1:~} mv source/file target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mv source/file target{cslinux1:~} mv source/file target      source/file source /file source /file source /file source /file source /file source t/file sourcea/file sourcer/file sourceg/file sourcee/file sourcet/file source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mv target/file source{cslinux1:~} mv source/file target{cslinux1:~} chmod 300 target     100 target{cslinux1:~} mv source/file target{cslinux1:~} chmod 200 target     {cslinux1:~} mv source/file target{cslinux1:~} chmod 200 target     {cslinux1:~} mv source/file target{cslinux1:~} chmod 100 target     300 target{cslinux1:~} mv source/file target{cslinux1:~} chmod 300 target     100 target{cslinux1:~} mv source/file target{cslinux1:~} chmod 200 target     {cslinux1:~} mv source/file target{cslinux1:~} chmod 100 target     {cslinux1:~} mv source/file target{cslinux1:~} chmod 700 source/file000 source/file700 source     /file00 source/file 100 source/file00 source/file {cslinux1:~} chmod 000 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source/file{cslinux1:~} mv target/file source{cslinux1:~} mv source/file target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mv source/file target{cslinux1:~} chmod 000 source/file{cslinux1:~} mv target/file source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mv target/file source{cslinux1:~} mv source/file target{cslinux1:~} chmod 000 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source/file     {cslinux1:~} chmod 0{cslinux1:~} chmod 00 source 100 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source000 source/file{cslinux1:~} mv target/file source{cslinux1:~} mv source/file target
+mv: cannot move ‘source/file’ to ‘target/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mv source/file target{cslinux1:~} chmod 100 source     00 source 200 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 200 source{cslinux1:~} mv source/file target
+mv: cannot stat ‘source/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mv source/file target{cslinux1:~} chmod 200 source     {cslinux1:~} chmod 200 source 300 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 300 source{cslinux1:~} mv source/file target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mv source/file target{cslinux1:~} chmod 300 source     00 source 700 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source/                 mv source/file target{cslinux1:~} chmod 300 source     {cslinux1:~} mv source/file target{cslinux1:~} chmod 200 source     {cslinux1:~} mv source/file target{cslinux1:~} chmod 200 source     {cslinux1:~} mv source/file target{cslinux1:~} chmod 100 source     000 source/file{cslinux1:~} mv target/file source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} mv target/file source{cslinux1:~}                      {cslinux1:~} mv source/file target{cslinux1:~} chmod 300 source     {cslinux1:~} mv source/file target{cslinux1:~}                      {cslinux1:~} mv target/file source{cslinux1:~}                      {cslinux1:~} mv target/file source{cslinux1:~}                      {cslinux1:~} mv target/file source{cslinux1:~}                      {cslinux1:~} mv source/file target{cslinux1:~} chmod 300 source     {cslinux1:~} mv source/file target{cslinux1:~} chmod 200 source     {cslinux1:~} mv source/file target{cslinux1:~} chmod 300 source     {cslinux1:~} mv source/file target{cslinux1:~}                      {cslinux1:~} mv target/file source{cslinux1:~}                      {cslinux1:~} mv target/file source{cslinux1:~}                      {cslinux1:~} mv source/file target{cslinux1:~}                      {cslinux1:~} mv target/file source{cslinux1:~}                      {cslinux1:~} mv target/file source{cslinux1:~}                      {cslinux1:~} mv source/file target{cslinux1:~} chmod 300 source     {cslinux1:~} mv source/file target{cslinux1:~} chmod 300 source     00 source 700 source{cslinux1:~} chmod 70{cslinux1:~} chmod 700{cslinux1:~} chmod 700 {cslinux1:~} chmod 700 s{cslinux1:~} chmod 700 so{cslinux1:~} chmod 700 sou{cslinux1:~} chmod 700 sour{cslinux1:~} chmod 700 sourc{cslinux1:~} chmod 700 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} 
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source/file{cslinux1:~} mv target/file source{cslinux1:~} chmod 700 source/file               000 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 target700 source/file{cslinux1:~} mv target/file source                     {cslinux1:~} mv source/file target source/file target {cslinux1:~} m source/file target {cslinux1:~} l source/file target{cslinux1:~} ln source/file target{cslinux1:~} ln
+ln: failed to create hard link ‘target/file’ => ‘source/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file target{cslinux1:~} chmod 000 target     {cslinux1:~} chmod 00 target 100 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 target{cslinux1:~} ln source/file target
+ln: failed to create hard link ‘target/file’ => ‘source/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file target{cslinux1:~} chmod 100 target     {cslinux1:~} chmod 100 target 200 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 200 target{cslinux1:~} ln source/file target{cslinux1:~} chmod 200 target     {cslinux1:~}                 {cslinux1:~} chmod 200 target{cslinux1:~} ln source/file target
+ln: failed to create hard link ‘target/file’ => ‘source/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file target{cslinux1:~} chmod 200 target     00 target 300 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 300 target{cslinux1:~} ln source/file target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file target
+ln: failed to create hard link ‘target/file’: File exists
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file targetuln source/file target{cslinux1:~} unln source/file target{cslinux1:~} un{cslinux1:~} unl{cslinux1:~} unlnn source/file target{cslinux1:~} unln source/file target {cslinux1:~} unlin source/file target{cslinux1:~} unli{cslinux1:~} unlink source/file target
+unlink: extra operand ‘target’
+Try 'unlink --help' for more information.
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ls target
+ls: cannot open directory target: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ls targetunlink source/file targettarget target target target target target target target target target target target 
+unlink: cannot unlink ‘target’: Is a directory
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} unlink target             unlink targetls target    unlink source/file target       
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} unlink source/filetarget     ls target    unlink source/file target{cslinux1:~} ln source/file target    
+ln: failed to access ‘source/file’: No such file or directory
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} touch sourecre{cslinux1:~} touch soucr{cslinux1:~} touch soucr{cslinux1:~} touch soucre/filr e
+touch: cannot touch ‘soucre/file’: No such file or directory
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} touch soucre/file/file /file /file /file /file /file s/fileo/fileu/filer/filec/filee/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} touch source/filecre/file{cslinux1:~} ln source/file target
+ln: failed to create hard link ‘target/file’: File exists
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file target{cslinux1:~} touch source/file    cre/file{cslinux1:~} ln source/file target{cslinux1:~} unlink source/file   /file /file /file /file /file /file t/filea/filer/fileg/filee/filet/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} unlink target/file{cslinux1:~} ln source/file target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file target{cslinux1:~} unlink target/file   
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} unlink target/file{cslinux1:~} ln source/file target{cslinux1:~} unlink target/file   {cslinux1:~} ln source/file target{cslinux1:~} touch source/file    cre/file{cslinux1:~} ln source/file target{cslinux1:~} unlink source/file   target     ls target    unlink source/file target{cslinux1:~} ln source/file target    {cslinux1:~} chmod 300 target     {cslinux1:~} chmod 30ln source/file target{cslinux1:~} chmod 200 target     {cslinux1:~} ln source/file target{cslinux1:~} chmod 100 target     {cslinux1:~} ln source/file target{cslinux1:~} chmod 000 target     700 source/file00 source/file {cslinux1:~} chmod 000 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source/file{cslinux1:~} unlink target/file   {cslinux1:~} ln source/file target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file target{cslinux1:~} chmod 000 source/file{cslinux1:~} unlink target/file   
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} unlink target/file{cslinux1:~} ln source/file target{cslinux1:~} unlink target/file   {cslinux1:~}                   {cslinux1:~} unlink target/file{cslinux1:~} ln source/file target{cslinux1:~} chmod 000 source/file{cslinux1:~} unlink target/file   {cslinux1:~} chmod 000 source/file     {cslinux1:~} chmod 00 source 100 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source{cslinux1:~} unlink target/file{cslinux1:~} ln source/file target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file target{cslinux1:~} chmod 100 source     {cslinux1:~} unlink target/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} unlink target/file{cslinux1:~} ln source/file target{cslinux1:~} chmod 100 source     00 source {cslinux1:~} chmod 000 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source{cslinux1:~} unlink target/file{cslinux1:~} ln source/file target
+ln: failed to access ‘source/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file target{cslinux1:~} chmod 000 source     {cslinux1:~} chmod 00 source 100 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source{cslinux1:~} ln source/file target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file target{cslinux1:~} chmod 100 source     {cslinux1:~} ln source/file target{cslinux1:~} chmod 000 source     {cslinux1:~} unlink target/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} unlink target/file{cslinux1:~} ln source/file target{cslinux1:~} chmod 100 source     {cslinux1:~} chmod 1{cslinux1:~} chmod 10{cslinux1:~} chmod 100{cslinux1:~} chmod 100 {cslinux1:~} chmod 100 s{cslinux1:~} chmod 100 so{cslinux1:~} chmod 100 sou{cslinux1:~} chmod 100 sour{cslinux1:~} chmod 100 sourc{cslinux1:~} chmod 100 source      target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 target{cslinux1:~} unlink target/file{cslinux1:~} ln source/file target
+ln: failed to create hard link ‘target/file’ => ‘source/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ln source/file target{cslinux1:~} chmod 100 target     {cslinux1:~} unlink target/file{cslinux1:~} ln source/file target{cslinux1:~} unlink target/file   {cslinux1:~} chmod 100 target  {cslinux1:~} ln source/file target{cslinux1:~}                      {cslinux1:~} ln source/file target{cslinux1:~}                      {cslinux1:~} ln source/file target{cslinux1:~}                      {cslinux1:~} ln source/file target{cslinux1:~}                      {cslinux1:~} ln source/file target{cslinux1:~}                      {cslinux1:~} ln source/file target{cslinux1:~} chmod 100 target     {cslinux1:~} unlink target/file{cslinux1:~} ln source/file target{cslinux1:~} chmod 100 source     {cslinux1:~} ln source/file target{cslinux1:~} chmod 100 source     00 source 700 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source/file00 source/file {cslinux1:~} chmod 000 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source/filesource/file source/file source/file source/file source/file source/file source/file source/file source/file source/file rsource/filemsource/file source/file
+rm: remove write-protected regular empty file ‘source/file’? y
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} rm source/filechmod 000 source/file{cslinux1:~} rm source/file                     ls
+assg1  helloworld  helloworld.cpp  perl5  public_html  source  target  yisak_worku_session3.log  yisak_worku_session4.log  yisak_worku_session.log
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} lsrm source/filechmod 000 source/file700 source     {cslinux1:~} ln source/file target{cslinux1:~} chmod 700 source     000 source/file{cslinux1:~} rm source/file       ls              lsrm source/filechmod 000 source/file700 source     {cslinux1:~} ln source/file target{cslinux1:~} chmod 100 target     {cslinux1:~} unlink target/file{cslinux1:~} ln source/file target{cslinux1:~} chmod 100 source     {cslinux1:~} ln source/file target{cslinux1:~} chmod 000 source     {cslinux1:~} unlink target/file{cslinux1:~} ln source/file target{cslinux1:~} chmod 100 source     {cslinux1:~} unlink target/file{cslinux1:~} ln source/file target{cslinux1:~} chmod 000 source/file{cslinux1:~} unlink target/file   {cslinux1:~} ln source/file target{cslinux1:~} unlink target/file   {cslinux1:~} ln source/file target{cslinux1:~} touch source/file    cre/file{cslinux1:~} ln source/file target{cslinux1:~} touch soucre/file    
+touch: cannot touch ‘soucre/file’: No such file or directory
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} touch soucre/filere/file {cslinux1:~} touch source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} touch source/filecre/file{cslinux1:~} ls               rm source/filechmod 000 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source/file     
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source/file{cslinux1:~} touch source/file    cre/file{cslinux1:~} ls               rm source/file
+rm: cannot remove ‘source/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} rm source/filechmod 000 source{cslinux1:~} chmod 00 source 100 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source{cslinux1:~} rm source/file  
+rm: remove write-protected regular empty file ‘source/file’? y
+rm: cannot remove ‘source/file’: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} rm source/filechmod 100 source{cslinux1:~} rm source/file  chmod 000 source/file{cslinux1:~} touch source/file    
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} touch source/file{cslinux1:~} rm source/file   chmod 100 source{cslinux1:~} chmod 100 source 700 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source{cslinux1:~} touch source/file{cslinux1:~} chmod 700 source {cslinux1:~}                 {cslinux1:~} chmod 700 source{cslinux1:~} touch source/file{cslinux1:~} rm source/file   chmod 100 source{cslinux1:~} rm source/file  source/file source/file source/file csource/fileasource/filetsource/file source/file
+cat: source/file: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cat source/filehmod 700 source/file{cslinux1:~} chmod 700 source/file 100 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source/file{cslinux1:~} cat source/file      
+cat: source/file: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cat source/filehmod 100 source/file{cslinux1:~} chmod 100 source/file 200 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 200 source/file{cslinux1:~} cat source/file      
+cat: source/file: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cat source/filehmod 200 source/file00 source/file 300 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 300 source/file{cslinux1:~} cat source/file      
+cat: source/file: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cat source/filehmod 300 source/file00 source/file 400 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 400 source/file{cslinux1:~} cat source/file      
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cat source/file target
+cat: target: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} ls
+assg1  helloworld  helloworld.cpp  perl5  public_html  source  target  yisak_worku_session3.log  yisak_worku_session4.log  yisak_worku_session.log
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} lscat source/file target       hmod 400 source/file           targertt 00 target 700 target
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 target{cslinux1:~} ls              cat source/file target{cslinux1:~} ls                    {cslinux1:~} lschmod 700 target{cslinux1:~}                 {cslinux1:~} chmod 700 target{cslinux1:~} ls              cat source/file target{cslinux1:~} ls                    {cslinux1:~} lscat source/file target        target
+cat: target: Is a directory
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cat source/file target       
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cat source/file target{cslinux1:~} chmod 700 target      {cslinux1:~} ls              chmod 700 target{cslinux1:~} ls              cat source/file target       hmod 400 source/file     00 source {cslinux1:~} chmod 000 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 sourceat source/file 
+cat: source/file: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} cat source/filehmod 000 source{cslinux1:~} chmod 00 source 100 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 sourceat source/file 
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} date >>       cat source/filehmod 100 source{cslinux1:~} chmod 100 source 700 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 700 source/file     at source/file  source/file  source/file  source/file d source/filea source/filet source/filee source/file{cslinux1:~} date  source/file> source/file> source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} date >> source/file{cslinux1:~} chmod 700 source/file{cslinux1:~} chmod 700 source/file {cslinux1:~} chmod 000 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source/file{cslinux1:~} date >> source/file  
+bash: source/file: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} date >> source/file{cslinux1:~} chmod 000 source/file{cslinux1:~} chmod 00 source/file 100 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source/file{cslinux1:~} date >> source/file  
+bash: source/file: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} date >> source/file{cslinux1:~} chmod 100 source/file00 source/file 200 source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 200 source/file{cslinux1:~} date >> source/file  
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} date >> source/file{cslinux1:~} chmod 200 source/file     {cslinux1:~} chmod 200 source {cslinux1:~} chmod 000 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source{cslinux1:~} date >> source/file
+bash: source/file: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} date >> source/file{cslinux1:~} chmod 000 source   {cslinux1:~} chmod 00 source 100 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source{cslinux1:~} date >> source/file
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} date >> source/file{cslinux1:~} chmod 100 source   {cslinux1:~} chmod 100 source{cslinux1:~} date >> source/file{cslinux1:~} date >> source/file{cslinux1:~} chmod 000 source   {cslinux1:~} date >> source/file{cslinux1:~} chmod 200 source/file{cslinux1:~} chmod 20{cslinux1:~} chmod 200{cslinux1:~} chmod 200 {cslinux1:~} chmod 200 s{cslinux1:~} chmod 200 so{cslinux1:~} chmod 200 sou{cslinux1:~} chmod 200 sour{cslinux1:~} chmod 200 sourc{cslinux1:~} chmod 200 source{cslinux1:~} chmod 200 source/{cslinux1:~} chmod 200 source/f{cslinux1:~} chmod 200 source/fi{cslinux1:~} chmod 200 source/fil{cslinux1:~} chmod 200 source/file{cslinux1:~} date >> source/file  {cslinux1:~} chmod 000 source   {cslinux1:~} date >> source/file{cslinux1:~} chmod 100 source   {cslinux1:~} date >> source/file{cslinux1:~}                    {cslinux1:~} date >> source/file{cslinux1:~} chmod 100 source   {cslinux1:~} date >> source/file{cslinux1:~} chmod 100 source   00 source {cslinux1:~} chmod 000 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 000 source{cslinux1:~} date >> source/file2
+bash: source/file2: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} date >> source/file2{cslinux1:~} chmod 000 source    {cslinux1:~} chm{cslinux1:~} chmo{cslinux1:~} chmod{cslinux1:~} chmod {cslinux1:~} chmod 0{cslinux1:~} chmod 00 source 100 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 100 source{cslinux1:~} date >> source/file2
+bash: source/file2: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} date >> source/file2{cslinux1:~} chmod 100 source    {cslinux1:~} chmod {cslinux1:~} chmod 100 source 200 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 200 source{cslinux1:~} date >> source/file2
+bash: source/file2: Permission denied
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} date >> source/file2{cslinux1:~} chmod 200 source    00 source 300 source
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} chmod 300 source{cslinux1:~} date >> source/file2
+]2;cslinux1.utdallas.edu:/home/013/y/yx/yxw190038{cslinux1:~} exit
+exit
+
+Script done on Thu 12 Sep 2024 06:03:37 PM CDT

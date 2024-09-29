@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "catppuccin.catppuccin-vsc"
+        "catppuccin.catppuccin-vsc",
+        "rust-lang.rust-analyzer"
     ]
 }

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Primes",
+            "request": "launch",
+            "mainClass": "Primes",
+            "projectName": "Code_7c6abf30"
+        },
+        {
+            "type": "java",
             "name": "BinarySearch",
             "request": "launch",
             "mainClass": "BinarySearch",
